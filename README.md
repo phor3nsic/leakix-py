@@ -1,6 +1,6 @@
 # Leakix-py
 
-> Client python for: https://leakix.net/
+> Python client for: https://leakix.net/
 
 ```
 Usage: leakix.py [-h] [-t TARGET] [-s SCOPE]
